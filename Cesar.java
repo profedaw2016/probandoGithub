@@ -13,7 +13,9 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
-
+/**
+ * Clase para cifrar un archivo usando el algoritmo Cesar
+ * /
 public class Cesar {
 	
 	public static void main (String[] args){
