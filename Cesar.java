@@ -52,7 +52,9 @@ public class Cesar {
 			ioe.printStackTrace();
 		}
 	}
-	
+	/**
+	 * Método que me muestra el fichero en pantalla
+	 * /
 	public static void visualizar(Path fichero){
 		BufferedReader input = null;
 		
